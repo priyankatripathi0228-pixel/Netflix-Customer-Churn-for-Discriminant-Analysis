@@ -84,7 +84,7 @@ End-to-end ML project with:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src=<img loading="lazy" decoding="async" width="1200" height="628" src="https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai.jpg" class="attachment-full size-full wp-post-image" alt="AI Tidal Wave cartoon" srcset="https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai.jpg 1200w, https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai-300x157.jpg 300w, https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai-600x314.jpg 600w, https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai-400x209.jpg 400w, https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai-550x288.jpg 550w, https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai-322x169.jpg 322w, https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai-768x402.jpg 768w, https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai-60x31.jpg 60w, https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai-110x58.jpg 110w, https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai-100x52.jpg 100w" sizes="auto, (max-width: 1200px) 100vw, 1200px">/>
   </a>
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
